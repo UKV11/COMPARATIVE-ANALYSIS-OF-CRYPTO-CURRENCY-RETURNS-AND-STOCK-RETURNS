@@ -1,1 +1,2 @@
-
+##COMPARATIVE ANALYSIS OF CRYPTO CURRENCY RETURNS AND STOCK RETURNS##
+Comparative Analysis of Cryptocurrency Returns and Stock Returns  This project analyzes the returns of the top 5 cryptocurrencies and the top 5 US technology stocks from 2018 to 2024. The analysis uses data from the Yahoo Finance API.  Data Sources: Historical price data for Bitcoin, Ethereum, Binance Coin, Cardano, Ripple, and US tech stocks (Apple, Amazon, Google, Microsoft, Nvidia). Variables: Open, Close, High, Low, Volume, and Adjusted Close prices for each asset. Analysis: Comparison of returns, volatility, and risk between cryptocurrencies and tech stocks.  Technologies Used: Python Pandas NumPy Yahoo Finance API
